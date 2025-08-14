@@ -1,11 +1,9 @@
-````markdown
 # 🏨 Hotel Reservation System
 
 A **Java-based** 🖥️ **Hotel Reservation System** powered by **JDBC** 🔌 and **MySQL** 🗄️.  
 Manage hotel reservations directly from your terminal with style! ✨
 
 ---
-
 ## 📜 Overview
 
 This project is a **console-based hotel management system** that allows hotel staff to:
