@@ -22,8 +22,8 @@ It’s designed to be **simple, efficient, and easy to extend**.
 
 ## 🚀 Features
 
-| Feature                         | Description                                              |
-|---------------------------------|----------------------------------------------------------|
+| Feature                         | Description                                               |
+|---------------------------------|-----------------------------------------------------------|
 | 🏷️ **Reserve a Room**           | Add a new booking with guest info & room details         |
 | 📄 **View Reservations**        | Display all current bookings in a neat table             |
 | 🔎 **Get Room Number**          | Find the room by reservation ID & guest name             |
